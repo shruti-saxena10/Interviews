@@ -2,27 +2,26 @@
 
 This Repo is created for Interview preparartion and has following topics:-
 
-Data Structures and Algorithms(Java)
-Collections Framework OOPS Questions
+Python Basic Scripts used in DevOps
 
-Spring
+1.Flask 
 
-Python Flask Basic Scripts used
+2.Git
 
-Git
+3.Linux
 
-Linux
+4.Shell Scripting
 
-Shell Scripting
+5.Docker
 
-Docker
+6.Kubernetes
 
-Kubernetes
+7.Ansible
 
-Ansible: 
+8.Jenkins
 
-Monitoring with Python Prometheus and grafana
+9.Monitoring with Python Prometheus and grafana
 
-CI-CD:-Azure DevOps and Github actions and end to end pipelines
+10.CI-CD:-Azure DevOps and Github actions and end to end pipelines
 
-[Terraform]
+11.Terraform
